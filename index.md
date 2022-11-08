@@ -1,4 +1,6 @@
-# Nokia Webscale Reference List
+---
+layout: default
+---
 
 ## Data Center Fabric / Ethernet Switching
 
