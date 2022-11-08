@@ -21,17 +21,13 @@ layout: default
 
 ## IP Routing / Data Center Gateway / Internet Peering
 
-### FP5
+### FP
 * [7750 SR-1x Service Router](https://onestore.nokia.com/asset/i/212738?_ga=2.169652833.1976488143.1667934172-1259632653.1667934019){:target="_blank"}
 * [7750 SR-s series](https://onestore.nokia.com/asset/i/205421?_ga=2.61281900.1976488143.1667934172-1259632653.1667934019){:target="_blank"}
 * [7750 SR-s MDA-s](https://onestore.nokia.com/asset/i/207224?_ga=2.136691184.1976488143.1667934172-1259632653.1667934019){:target="_blank"}
 * [7750 SR-s XMA-s](https://onestore.nokia.com/asset/i/205422?_ga=2.136691184.1976488143.1667934172-1259632653.1667934019){:target="_blank"}
 * [7750 SR-s XMA2-s](https://onestore.nokia.com/asset/i/212803?_ga=2.136632944.1976488143.1667934172-1259632653.1667934019){:target="_blank"}
-
-### FP4
 * [7750 SR series](https://onestore.nokia.com/asset/i/164728?_ga=2.61281900.1976488143.1667934172-1259632653.1667934019){:target="_blank"}
-
-### Service Adapters
 * [7750 SR Extended Services Appliance (ESA)](https://onestore.nokia.com/asset/i/207452?_ga=2.136632944.1976488143.1667934172-1259632653.1667934019){:target="_blank"}
 * [Integrated Service Adapters (ISAs)](https://onestore.nokia.com/asset/i/157673?_ga=2.128758220.1976488143.1667934172-1259632653.1667934019){:target="_blank"}
 
