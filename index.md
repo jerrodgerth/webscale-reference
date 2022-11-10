@@ -11,7 +11,7 @@ layout: default
 * [User Guides](https://documentation.nokia.com/srlinux/index.html){:target="_blank"}
 * [YANG Browser](https://yang.srlinux.dev/){:target="_blank"}
 
-### SR Linux Hardware Data Sheets
+### SR Linux Hardware Data Sheets ([Table view](./7220.html))
 
 * [7220 IXR-D Series](https://onestore.nokia.com/asset/i/207599?_ga=2.11851444.1674326919.1667929689-1741003374.1651703342){:target="_blank"}
 * [7220 IXR-H Series](https://onestore.nokia.com/asset/i/210990?_ga=2.87036312.1674326919.1667929689-1741003374.1651703342){:target="_blank"}
