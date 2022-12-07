@@ -63,5 +63,3 @@ layout: default
 * [1830 PSI-M](https://onestore.nokia.com/asset/i/201662?_ga=2.74454482.1976488143.1667934172-1259632653.1667934019){:target="_blank"}
 * [CFP2-DCO Data Sheet](https://onestore.nokia.com/asset/i/207647?_ga=2.162314876.1976488143.1667934172-1259632653.1667934019){:target="_blank"}
 
-
-## NSP ?
