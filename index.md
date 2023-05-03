@@ -1,5 +1,5 @@
 ---
-title: Nokia Webscale Reference List
+title: Nokia NI Product Reference
 layout: default
 ---
 
@@ -10,6 +10,7 @@ layout: default
 * [Data Sheet](https://onestore.nokia.com/asset/i/207598?_ga=2.88602907.1674326919.1667929689-1741003374.1651703342){:target="_blank"}
 * [User Guides](https://documentation.nokia.com/srlinux/index.html){:target="_blank"}
 * [YANG Browser](https://yang.srlinux.dev/){:target="_blank"}
+* [Netbox Device Templates](https://github.com/netbox-community/devicetype-library/tree/master/device-types/Nokia){:target="_blank"}
 
 ### SR Linux Hardware Data Sheets ([Table view](./7220.html))
 
