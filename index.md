@@ -22,7 +22,7 @@ layout: default
 
 ## IP Routing / Data Center Gateway / Internet Peering
 
-### FP
+### 7750 SR Family
 * [7750 SR-1x Service Router](https://onestore.nokia.com/asset/i/212738?_ga=2.169652833.1976488143.1667934172-1259632653.1667934019){:target="_blank"}
 * [7750 SR-s series](https://onestore.nokia.com/asset/i/205421?_ga=2.61281900.1976488143.1667934172-1259632653.1667934019){:target="_blank"}
 * [7750 SR-s MDA-s](https://onestore.nokia.com/asset/i/207224?_ga=2.136691184.1976488143.1667934172-1259632653.1667934019){:target="_blank"}
